@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712786372 source:c:\users\joosorio\documents\uni virtual\proyecto progra\proyecto progra\main.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
